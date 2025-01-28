@@ -22,3 +22,7 @@ h3 {
     flex-grow: inherit;
     flex-basis: 19;
 }
+
+h4 {
+    flex-shrink: unset;
+}
