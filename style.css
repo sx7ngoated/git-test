@@ -17,3 +17,8 @@ h1 {
     max-width: 200;
     mask-image: 331;
 }
+
+h3 {
+    flex-grow: inherit;
+    flex-basis: 19;
+}
