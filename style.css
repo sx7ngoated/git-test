@@ -7,6 +7,16 @@ h1 {
     margin-top: auto;
 }
 
+h1 {
+    margin-inline-end: 0cap;
+    margin-block: 1;
+
+}
+
+h3 {
+    font-weight: 300;
+}
+
 h2 {
     flex-direction: column;
 }
