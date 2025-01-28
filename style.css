@@ -18,10 +18,7 @@ h1 {
     mask-image: 331;
 }
 
-h3 {
-    flex-grow: inherit;
-    flex-basis: 19;
-}
+
 
 h4 {
     flex-shrink: unset;
